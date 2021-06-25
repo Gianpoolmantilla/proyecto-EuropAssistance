@@ -1,0 +1,16 @@
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.exe
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.deps.json
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.runtimeconfig.json
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.runtimeconfig.dev.json
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.dll
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\ref\DesafioTecnico.dll
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.pdb
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.AssemblyInfoInputs.cache
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.AssemblyInfo.cs
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.csproj.CoreCompileInputs.cache
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.dll
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\ref\DesafioTecnico.dll
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.pdb
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.genruntimeconfig.cache
+E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.csproj.AssemblyReference.cache

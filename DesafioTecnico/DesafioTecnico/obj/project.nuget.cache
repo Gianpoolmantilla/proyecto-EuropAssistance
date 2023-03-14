@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hAumkqUsm8fweUlG5taY1FLXDBsb3eDLt+K+uRfObdx2ZBBDywO4C02S9L4QKeAguJO330LuPAwOSFB820Fgyw==",
+  "dgSpecHash": "RLasmTIBEVbVvLlGZuTciBbOz7nvfk8a518eVtyK70whrRyh0uPJphUlev09qk9pL2lS70o2H8hs1VYgDK3cpQ==",
   "success": true,
-  "projectFilePath": "E:\\Users\\work\\Desktop\\desafio\\DesafioTecnico\\DesafioTecnico\\DesafioTecnico.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj",
+  "expectedPackageFiles": [
+    "/Users/gianmantilla/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

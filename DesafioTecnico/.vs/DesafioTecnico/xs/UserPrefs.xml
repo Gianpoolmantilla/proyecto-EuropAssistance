@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{59E9FF46-5068-4EB6-ACA2-49285E28A875}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DesafioTecnico PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesafioTecnico.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="DesafioTecnico.Test/UnitTest1.cs" Line="35" Column="6" />
+      <File FileName="DesafioTecnico/Program.cs" Line="19" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesafioTecnico" expanded="True">
+            <Node name="DesafioTecnico" expanded="True" />
+            <Node name="DesafioTecnico.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DesafioTecnico" expanded="True" selected="True">
+            <Node name="DesafioTecnico.Test" expanded="True">
+              <Node name="DesafioTecnico.Test" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

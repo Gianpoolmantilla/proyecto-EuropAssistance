@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\work\\Desktop\\desafio\\DesafioTecnico\\DesafioTecnico\\DesafioTecnico.csproj": {}
+    "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj": {}
   },
   "projects": {
-    "E:\\Users\\work\\Desktop\\desafio\\DesafioTecnico\\DesafioTecnico\\DesafioTecnico.csproj": {
+    "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\work\\Desktop\\desafio\\DesafioTecnico\\DesafioTecnico\\DesafioTecnico.csproj",
+        "projectUniqueName": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj",
         "projectName": "DesafioTecnico",
-        "projectPath": "E:\\Users\\work\\Desktop\\desafio\\DesafioTecnico\\DesafioTecnico\\DesafioTecnico.csproj",
-        "packagesPath": "C:\\Users\\work\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\work\\Desktop\\desafio\\DesafioTecnico\\DesafioTecnico\\obj\\",
+        "projectPath": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj",
+        "packagesPath": "/Users/gianmantilla/.nuget/packages/",
+        "outputPath": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\work\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/gianmantilla/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,12 +47,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,16 +1,32 @@
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.exe
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.deps.json
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.runtimeconfig.json
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.runtimeconfig.dev.json
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.dll
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\ref\DesafioTecnico.dll
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\bin\Debug\net5.0\DesafioTecnico.pdb
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.GeneratedMSBuildEditorConfig.editorconfig
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.AssemblyInfoInputs.cache
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.AssemblyInfo.cs
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.csproj.CoreCompileInputs.cache
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.dll
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\ref\DesafioTecnico.dll
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.pdb
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.genruntimeconfig.cache
-E:\Users\work\Desktop\desafio\DesafioTecnico\DesafioTecnico\obj\Debug\net5.0\DesafioTecnico.csproj.AssemblyReference.cache
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.exe
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.deps.json
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.runtimeconfig.json
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.runtimeconfig.dev.json
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.dll
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/ref/DesafioTecnico.dll
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.pdb
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.GeneratedMSBuildEditorConfig.editorconfig
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.AssemblyInfoInputs.cache
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.AssemblyInfo.cs
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.csproj.CoreCompileInputs.cache
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.dll
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/ref/DesafioTecnico.dll
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.pdb
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.genruntimeconfig.cache
+E:/Users/work/Desktop/desafio/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.csproj.AssemblyReference.cache
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.deps.json
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.runtimeconfig.json
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.runtimeconfig.dev.json
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.dll
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/bin/Debug/net5.0/DesafioTecnico.pdb
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.csproj.AssemblyReference.cache
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.AssemblyInfoInputs.cache
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.AssemblyInfo.cs
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.csproj.CoreCompileInputs.cache
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.dll
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/refint/DesafioTecnico.dll
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.pdb
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/DesafioTecnico.genruntimeconfig.cache
+/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/Debug/net5.0/ref/DesafioTecnico.dll

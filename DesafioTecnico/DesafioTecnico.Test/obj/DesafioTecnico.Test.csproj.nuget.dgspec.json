@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico.Test/DesafioTecnico.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico.Test/DesafioTecnico.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico.Test/DesafioTecnico.Test.csproj",
+        "projectName": "DesafioTecnico.Test",
+        "projectPath": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico.Test/DesafioTecnico.Test.csproj",
+        "packagesPath": "/Users/gianmantilla/.nuget/packages/",
+        "outputPath": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gianmantilla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj": {
+                "projectPath": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj",
+        "projectName": "DesafioTecnico",
+        "projectPath": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/DesafioTecnico.csproj",
+        "packagesPath": "/Users/gianmantilla/.nuget/packages/",
+        "outputPath": "/Users/gianmantilla/Desktop/carpeta sin título/proyecto-EuropAssistance/DesafioTecnico/DesafioTecnico/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gianmantilla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

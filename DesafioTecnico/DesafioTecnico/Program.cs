@@ -6,216 +6,32 @@ namespace DesafioTecnico
 {
     class Program
     {
+       
         static void Main(string[] args)
         {
             //ejemplos
 
+            Desafio _desafio = new Desafio();
+
             Console.WriteLine("SIMPLIFICO");
-            Simplificar("4/6");
-            Simplificar("10/11");
-            Simplificar("100/400");
+            Console.WriteLine(_desafio.Simplificar("4/6"));
+            Console.WriteLine(_desafio.Simplificar("10/11"));
+            Console.WriteLine(_desafio.Simplificar("100/400"));
 
             Console.WriteLine("VALIDO NOMBRE\n");
-            ValidoNombre("E. Poe");
-            ValidoNombre("E. A. Poe");
-            ValidoNombre("Edgard A. Poe");
-            ValidoNombre("Edgard");
-            ValidoNombre("e. Poe");
-            ValidoNombre("E Poe");
-            ValidoNombre("E. Allan Poe");
-            ValidoNombre("E. Allan P.");
-            ValidoNombre("Edg. Allan Poe");
+            _desafio.ValidoNombre("E. Poe");
+            _desafio.ValidoNombre("E. A. Poe");
+            _desafio.ValidoNombre("Edgard A. Poe");
+            _desafio.ValidoNombre("Edgard");
+            _desafio.ValidoNombre("e. Poe");
+            _desafio.ValidoNombre("E Poe");
+            _desafio.ValidoNombre("E. Allan Poe");
+            _desafio.ValidoNombre("E. Allan P.");
+            _desafio.ValidoNombre("Edg. Allan Poe");
             Console.ReadLine();
         }
 
-        private static void ValidoNombre(string Nombre)
-        {
-
-            if (ValidName(Nombre) == true)
-            {
-                Console.WriteLine("validacion correcta");
-            }
-            Console.WriteLine("===================");
-        }
-
-        private static void Simplificar(string Fraccion)
-        {
-            string Result = string.Empty;
-
-            int Numerador = int.Parse(Fraccion.Substring(0, Fraccion.IndexOf("/")));
-            int Denominador = int.Parse(Fraccion.Substring(Fraccion.IndexOf("/") + 1));
-
-            int Divisible;
-            for (; ; )
-            {
-                Divisible = 0;
-                for (int i = 2; i <= 9; i++)
-                {
-                    if (Numerador % i == 0 && Denominador % i == 0)
-                    {
-                        Divisible = i;
-                        break;
-                    }
-                }
-                if (Divisible == 0)
-                {
-                    break;
-                }
-                Numerador = +Numerador / Divisible;
-                Denominador = +Denominador / Divisible;
-            }
-
-            Result = Numerador + "/" + Denominador;
-            Console.WriteLine(Result);
-        }
-
-        public static bool ValidName(string Nombre)
-        {
-            bool Result = true;
-            if (ValidoMayusculas(Nombre) == true) // a
-            {
-                Console.WriteLine("las palabras o iniciales deben empezar con mayusculas");
-                Result = false;
-            }
-            if (ValidarPuntoEnIniciales(Nombre) == true) //b
-            {
-                Console.WriteLine("las iniciales deben contener un punto");
-                Result = false;
-            }
-            if (ValidoNombresYapellidos(Nombre) == true) //c
-            {
-                Console.WriteLine("solo nombres o apellidos no son validos");
-                Result = false;
-            }
-            if (ValidoNombres(Nombre) == true) //d
-            {
-                Console.WriteLine("inicial como primer nombre y palabra como segundo no es valido");
-                Result = false;
-            }
-
-            if (ValidoApellidoCompleto(Nombre) == true) //e
-            {
-                Console.WriteLine("el apellido no puede ser inicial");
-                Result = false;
-            }
-
-            if (ValidoPalabrasQueNoFinalicenConPunto(Nombre) == true)
-            {
-                Console.WriteLine("las palabras no deben tener punto");
-                Result = false;
-            }
-
-            return Result;
-
-        }
-
-        private static bool ValidoNombres(string Nombre)
-        {
-            var Valido = Nombre.Split(" ").Count();
-            bool Result = false;
-            if (Valido == 3)
-            {
-                //verifico
-                var palabra = Nombre.Split(" ").ToArray();
-                if (palabra[0].Length == 2 && palabra[1].Length > 2)
-                {
-                    Result = true;
-                }
-               
-            }
-            return Result;
-        }
-
-        public static bool ValidoNombresYapellidos(string Nombre)
-        {
-            int Conteo = 0;
-            bool Result = false;
-
-            foreach (var item in Nombre.Split(" "))
-            {
-                Conteo++;
-            }
-            if (Conteo == 1)
-            {
-                Result = true;
-            }
-            return Result;
-
-        }
-
-        public static bool ValidoPalabrasQueNoFinalicenConPunto(string Nombre)
-        {
-            bool Result = false;
-            var Palabra = Nombre.Split(" ").ToList();
-
-            foreach (var item in Palabra)
-            {
-                if (item.Length > 2 && item.Contains(".") == true)
-                {
-                    Result = true;
-                }
-            }     
-
-            return Result;
-        }
-        /// <summary>
-        /// metodo que verifica si el las inciales terminan en punto
-        /// </summary>
-        /// <param name="Nombre"></param>
-        /// <returns></returns>
-        public static bool ValidarPuntoEnIniciales(string Nombre)
-        {
-            bool Result = false;
-
-            var Arreglo = Nombre.Split(" ");
-            for (int i = 0; i < Arreglo.Length; i++)
-            {
-                //si recupero un maximo de un caracter significa que no trajo el caracter del "punto". 
-                if (Arreglo[i].Length == 1)
-                {
-                    Result = true;
-                    break;
-                }
-            }
-            return Result;
-
-        }
-        /// <summary>
-        /// valido si el primer caracter de la palabra empieza con mayuscula
-        /// </summary>
-        /// <param name="Nombre"></param>
-        /// <returns></returns>
-        public static bool ValidoMayusculas(string Nombre)
-        {
-            bool Result = false;
-
-            var Arreglo = Nombre.Split(" ");
-            for (int i = 0; i < Arreglo.Length; i++)
-            {
-                var PrimeraLetra = Arreglo[i].Substring(0, 1);
-
-                if (PrimeraLetra != PrimeraLetra.ToUpper())
-                {
-                    Result = true;
-                    break;
-                }
-            }
-            return Result;
-        }
-
-        public static bool ValidoApellidoCompleto(string Nombre)
-        {
-            bool Result = false;
-            var Arreglo = Nombre.Split(" ");
-            var UltimaPalabra = Arreglo.Last();
-            if (UltimaPalabra.Length == 2)
-            {
-                Result = true;
-            }
-
-            return Result;
-
-        }
+        
 
     }
 }
